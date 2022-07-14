@@ -1,0 +1,32 @@
+_repo: The-Kobzar-of-the-Ukraine-Being-Select-Poems-of-Taras-Shevchenko_68486
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Hunter, Alexander Jardine
+    gutenberg_agent_id: '54795'
+    url: http://www.gutenberg.org/2009/agents/54795
+creator:
+  author:
+    agent_name: Shevchenko, Taras
+    gutenberg_agent_id: '54794'
+    url: http://www.gutenberg.org/2009/agents/54794
+description: ''
+gutenberg_issued: '2022-07-09'
+identifiers:
+  gutenberg: '68486'
+language: en
+pgterms:marc904: https://archive.org/details/kobzarofukraineb00shev_0/page/n3/mode/2up
+pgterms:marc905: 20220312090223shevchenko
+pgterms:marc906: '1922'
+pgterms:marc907: CA
+production_note: Jeroen Hellingman and the Online Distributed Proofreading Team at
+  https://www.pgdp.net/ for Project Gutenberg (This file was produced from images
+  generously made available by The Internet Archive/Canadian Libraries)
+publication_note: Canada :Dr. A. J. Hunter,1922.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'The Kobzar of the Ukraine: Being Select Poems of Taras Shevchenko'
+url: http://www.gutenberg.org/ebooks/68486

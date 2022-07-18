@@ -5,12 +5,17 @@ contributor:
     agent_name: Hunter, Alexander Jardine
     gutenberg_agent_id: '54795'
     url: http://www.gutenberg.org/2009/agents/54795
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Shevchenko, Taras
     gutenberg_agent_id: '54794'
     url: http://www.gutenberg.org/2009/agents/54794
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/68486#The-Kobzar-of-the-Ukraine-Being-Select-Poems-of-Taras-Shevchenko
 gutenberg_issued: '2022-07-09'
 identifiers:
   gutenberg: '68486'
